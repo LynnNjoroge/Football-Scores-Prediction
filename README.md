@@ -2,7 +2,7 @@
 
 # Introduction
 
-This project seeks to create predictive models that can effective predict the scores of the home team and away tea using polynomial regression and use classifier models to predict if a match can be classified as Win, Loss or Draw from the home team's perspective.
+This project seeks to create predictive models that can effectively predict the scores of the home team and away teams using polynomial regression and apply the use of classifier models to predict if a match can be classified as Win, Loss or Draw from the home team's perspective.
 
 # Motivation
 
